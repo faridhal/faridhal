@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/faridhal/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1692531543/smile-wbg_a9eqjb.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
@@ -49,7 +45,7 @@
   <a href="https://instagram.com/faridhalardani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://twitch.tv/faridhall" target="_blank">
+  <a href="https://www.twitch.tv/koishisuijin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
